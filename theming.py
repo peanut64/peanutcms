@@ -6,7 +6,8 @@
 #
 #######################################################
 
-# This is the main program
+# This file manages the generation of the final pages
+# using the .pchtml files stored in the themes
+# directory
 
 #######################################################
-
